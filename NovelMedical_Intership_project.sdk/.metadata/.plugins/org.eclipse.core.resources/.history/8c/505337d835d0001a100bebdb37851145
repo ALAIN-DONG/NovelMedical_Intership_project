@@ -1,0 +1,89 @@
+/*
+ * Copyright (C) 2018 - 2019 Xilinx, Inc.
+ * All rights reserved.
+ *
+ * Redistribution and use in source and binary forms, with or without modification,
+ * are permitted provided that the following conditions are met:
+ *
+ * 1. Redistributions of source code must retain the above copyright notice,
+ *    this list of conditions and the following disclaimer.
+ * 2. Redistributions in binary form must reproduce the above copyright notice,
+ *    this list of conditions and the following disclaimer in the documentation
+ *    and/or other materials provided with the distribution.
+ * 3. The name of the author may not be used to endorse or promote products
+ *    derived from this software without specific prior written permission.
+ *
+ * THIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS'' AND ANY EXPRESS OR IMPLIED
+ * WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+ * MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT
+ * SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+ * EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT
+ * OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+ * INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+ * CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING
+ * IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY
+ * OF SUCH DAMAGE.
+ *
+ */
+
+#ifndef __TCP_PERF_SERVER_H_
+#define __TCP_PERF_SERVER_H_
+
+#include "lwipopts.h"
+#include "lwip/ip_addr.h"
+#include "lwip/err.h"
+#include "lwip/tcp.h"
+#include "lwip/inet.h"
+#include "xil_printf.h"
+#include "platform.h"
+
+/* seconds between periodic bandwidth reports */
+#define INTERIM_REPORT_INTERVAL 5
+
+/* server port to listen on/connect to */
+#define TCP_CONN_PORT 5001
+
+
+//tcp服务器连接状态
+enum tcp_server_states
+{
+	TCPSERVER_NONE = 0,		//没有连接
+	TCPSERVER_ACCEPTED,		//有客户端连接上了
+	TCPSERVER_CLOSING,		//即将关闭连接
+};
+//LWIP回调函数使用的结构体
+struct tcp_server_struct
+{
+	u8 state;               //当前连接状
+	struct tcp_pcb *pcb;    //指向当前的pcb
+	struct pbuf *p;         //指向接收/或传输的pbuf
+};
+
+int TCP_start_application();
+
+err_t tcp_server_accept(void *arg,struct tcp_pcb *tpcb,err_t err);
+void tcp_server_connection_close(struct tcp_pcb *tpcb, struct tcp_server_struct *es);
+void tcp_server_error(void *arg,err_t err);
+
+
+err_t tcp_recv_callback(void *arg, struct tcp_pcb *tpcb, struct pbuf *p, err_t err);
+err_t tcp_poll_callback(void * arg, struct tcp_pcb * tpcb);
+static err_t tcp_sent_callback(void *arg, struct tcp_pcb *tpcb, u16_t len);
+
+
+void send_data_a(void);
+void send_data_b(struct pbuf* p);
+void send_data_c(struct tcp_pcb *tpcb, struct pbuf* p);
+void send_data_d(struct tcp_pcb *tpcb, struct tcp_server_struct *es);
+
+void send_data_c1(const char a[]);
+void TCP_send_data(const char a[]);
+
+
+void TCP_print_received_data(void);
+void main_send(const char *a, struct tcp_pcb *tpcb, struct tcp_server_struct *es);
+
+void main_send_use_callback(int i, void (*main_send_callback)(char*));
+void main_send_callback(char* a);
+
+#endif /* __TCP_PERF_SERVER_H_ */

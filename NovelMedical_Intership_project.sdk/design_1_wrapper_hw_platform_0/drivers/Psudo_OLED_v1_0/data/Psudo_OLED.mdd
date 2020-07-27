@@ -1,0 +1,10 @@
+
+
+OPTION psf_version = 2.1;
+
+BEGIN DRIVER Psudo_OLED
+	OPTION supported_peripherals = (Psudo_OLED);
+	OPTION copyfiles = all;
+	OPTION VERSION = 1.0;
+	OPTION NAME = Psudo_OLED;
+END DRIVER

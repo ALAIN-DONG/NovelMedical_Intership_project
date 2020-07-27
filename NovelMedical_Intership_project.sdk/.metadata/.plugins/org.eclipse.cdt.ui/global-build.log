@@ -1,0 +1,2497 @@
+18:57:29 **** Build of project Application_BSP_V1 ****
+make -k all 
+"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_5/src"
+make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src"
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_0/src"
+make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_4/src"
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/emacps_v3_9/src"
+make -C ps7_cortexa9_0/libsrc/emacps_v3_9/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/gpiops_v3_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/lwip211_v1_0/src"
+make -C ps7_cortexa9_0/libsrc/lwip211_v1_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/Psudo_OLED_v1_0/src"
+make -C ps7_cortexa9_0/libsrc/Psudo_OLED_v1_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/qspips_v3_6/src"
+make -C ps7_cortexa9_0/libsrc/qspips_v3_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/scugic_v4_0/src"
+make -C ps7_cortexa9_0/libsrc/scugic_v4_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/standalone_v7_0/src"
+make -C ps7_cortexa9_0/libsrc/standalone_v7_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/sysmon_v7_5/src"
+make -C ps7_cortexa9_0/libsrc/sysmon_v7_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_7/src"
+make -C ps7_cortexa9_0/libsrc/uartps_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_3/src"
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make libs in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_5/src"
+make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling coresightps_dcc"
+arm-none-eabi-ar: creating ../../../lib/libxil.a
+"Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src"
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling cpu_cortexa9"
+"Running Make libs in ps7_cortexa9_0/libsrc/ddrps_v1_0/src"
+make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling ddrps"
+"Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling devcfg"
+"Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_4/src"
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling dmaps"
+"Running Make libs in ps7_cortexa9_0/libsrc/emacps_v3_9/src"
+make -C ps7_cortexa9_0/libsrc/emacps_v3_9/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling emacps"
+"Running Make libs in ps7_cortexa9_0/libsrc/gpiops_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/gpiops_v3_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling gpiops"
+"Running Make libs in ps7_cortexa9_0/libsrc/lwip211_v1_0/src"
+make -C ps7_cortexa9_0/libsrc/lwip211_v1_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling lwip src and adapter files"
+In file included from ../../../include/xemacps.h:349,
+                 from ../../../include/netif/xemacpsif.h:57,
+                 from contrib/ports/xilinx/netif/xemacpsif_dma.c:37:
+contrib/ports/xilinx/netif/xemacpsif_dma.c: In function 'init_dma':
+../../../include/xemacps_hw.h:611:23: warning: 'bdrxterminate' may be used uninitialized in this function [-Wmaybe-uninitialized]
+ #define XEmacPs_Out32 Xil_Out32
+                       ^~~~~~~~~
+contrib/ports/xilinx/netif/xemacpsif_dma.c:561:14: note: 'bdrxterminate' was declared here
+  XEmacPs_Bd *bdrxterminate;
+              ^~~~~~~~~~~~~
+In file included from ../../../include/xemacps.h:350,
+                 from ../../../include/netif/xemacpsif.h:57,
+                 from contrib/ports/xilinx/netif/xemacpsif_dma.c:37:
+../../../include/xemacps_bd.h:142:12: warning: 'bdtxterminate' may be used uninitialized in this function [-Wmaybe-uninitialized]
+  (*(u32 *)((UINTPTR)((void*)(BaseAddress)) + (u32)(Offset)))
+            ^
+contrib/ports/xilinx/netif/xemacpsif_dma.c:560:14: note: 'bdtxterminate' was declared here
+  XEmacPs_Bd *bdtxterminate;
+              ^~~~~~~~~~~~~
+"Running Make libs in ps7_cortexa9_0/libsrc/Psudo_OLED_v1_0/src"
+make -C ps7_cortexa9_0/libsrc/Psudo_OLED_v1_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling Psudo_OLED..."
+Psudo_OLED_selftest.c: In function 'PSUDO_OLED_Reg_SelfTest':
+Psudo_OLED_selftest.c:52:59: warning: comparison of integer expressions of different signedness: 'u32' {aka 'long unsigned int'} and 'int' [-Wsign-compare]
+    if ( PSUDO_OLED_mReadReg (baseaddr, read_loop_index*4) != (read_loop_index+1)*READ_WRITE_MUL_FACTOR){
+                                                           ^~
+Psudo_OLED_selftest.c:36:6: warning: unused variable 'Index' [-Wunused-variable]
+  int Index;
+      ^~~~~
+"Running Make libs in ps7_cortexa9_0/libsrc/qspips_v3_6/src"
+make -C ps7_cortexa9_0/libsrc/qspips_v3_6/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling qspips"
+"Running Make libs in ps7_cortexa9_0/libsrc/scugic_v4_0/src"
+make -C ps7_cortexa9_0/libsrc/scugic_v4_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling scugic"
+"Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling scutimer"
+"Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling scuwdt"
+"Running Make libs in ps7_cortexa9_0/libsrc/standalone_v7_0/src"
+make -C ps7_cortexa9_0/libsrc/standalone_v7_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling standalone"
+In file included from usleep.c:56:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from xil_sleeptimer.c:51:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from xtime_l.c:49:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from sleep.c:53:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+"Running Make libs in ps7_cortexa9_0/libsrc/sysmon_v7_5/src"
+make -C ps7_cortexa9_0/libsrc/sysmon_v7_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling sysmon"
+"Running Make libs in ps7_cortexa9_0/libsrc/uartps_v3_7/src"
+make -C ps7_cortexa9_0/libsrc/uartps_v3_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling uartps"
+"Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_3/src"
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling xadcps"
+'Finished building libraries'
+
+**** Build of configuration Debug for project Application_V1 ****
+
+Nothing to build for project Application_V1
+19:00:28 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/i2c_access.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/i2c_access.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/i2c_access.d" -MT"src/i2c_access.o" -o "src/i2c_access.o" "../src/i2c_access.c"
+'Finished building: ../src/i2c_access.c'
+' '
+'Building file: ../src/iic_phyreset.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/iic_phyreset.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/iic_phyreset.d" -MT"src/iic_phyreset.o" -o "src/iic_phyreset.o" "../src/iic_phyreset.c"
+'Finished building: ../src/iic_phyreset.c'
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:280:23: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+  OLED_ShowString(0,0, oled_string);
+                       ^~~~~~~~~~~
+In file included from ../src/main.c:41:
+../src/oled.h:62:6: note: expected 'const u8 *' {aka 'const unsigned char *'} but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/main.c:361:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+    OLED_ShowString(0,16, olde_stat_string);
+                          ^~~~~~~~~~~~~~~~
+In file included from ../src/main.c:41:
+../src/oled.h:62:6: note: expected 'const u8 *' {aka 'const unsigned char *'} but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/main.c:264:6: warning: unused variable 'flag_first_udp' [-Wunused-variable]
+  int flag_first_udp = 0;
+      ^~~~~~~~~~~~~~
+../src/main.c:263:6: warning: unused variable 'flag_first_tcp' [-Wunused-variable]
+  int flag_first_tcp = 0;
+      ^~~~~~~~~~~~~~
+../src/main.c:279:36: warning: 'TCP | UDP | CMD' directive writing 15 bytes into a region of size 12 [-Wformat-overflow=]
+  sprintf(oled_string, "TCP | UDP | CMD");
+                        ~~~~~~~~~~~~^~~
+../src/main.c:279:2: note: 'sprintf' output 16 bytes into a destination of size 12
+  sprintf(oled_string, "TCP | UDP | CMD");
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building file: ../src/oled.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/oled.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/oled.d" -MT"src/oled.o" -o "src/oled.o" "../src/oled.c"
+'Finished building: ../src/oled.c'
+' '
+'Building file: ../src/platform.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/platform.d" -MT"src/platform.o" -o "src/platform.o" "../src/platform.c"
+'Finished building: ../src/platform.c'
+' '
+'Building file: ../src/platform_mb.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform_mb.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/platform_mb.d" -MT"src/platform_mb.o" -o "src/platform_mb.o" "../src/platform_mb.c"
+'Finished building: ../src/platform_mb.c'
+' '
+'Building file: ../src/platform_zynq.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform_zynq.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/platform_zynq.d" -MT"src/platform_zynq.o" -o "src/platform_zynq.o" "../src/platform_zynq.c"
+In file included from ../src/platform_zynq.c:60:
+../../Application_BSP_V1/ps7_cortexa9_0/include/xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+'Finished building: ../src/platform_zynq.c'
+' '
+'Building file: ../src/platform_zynqmp.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform_zynqmp.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/platform_zynqmp.d" -MT"src/platform_zynqmp.o" -o "src/platform_zynqmp.o" "../src/platform_zynqmp.c"
+'Finished building: ../src/platform_zynqmp.c'
+' '
+'Building file: ../src/sfp.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/sfp.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/sfp.d" -MT"src/sfp.o" -o "src/sfp.o" "../src/sfp.c"
+'Finished building: ../src/sfp.c'
+' '
+'Building file: ../src/si5324.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/si5324.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/si5324.d" -MT"src/si5324.o" -o "src/si5324.o" "../src/si5324.c"
+'Finished building: ../src/si5324.c'
+' '
+'Building file: ../src/tcp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/tcp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/tcp_server_func.d" -MT"src/tcp_server_func.o" -o "src/tcp_server_func.o" "../src/tcp_server_func.c"
+../src/tcp_server_func.c:6:8: warning: type defaults to 'int' in declaration of 'TCP_User_Recv_Buf' [-Wimplicit-int]
+ extern TCP_User_Recv_Buf;
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c:7:8: warning: type defaults to 'int' in declaration of 'TCP_User_Send_Buf' [-Wimplicit-int]
+ extern TCP_User_Send_Buf;
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c: In function 'tcp_recv_callback':
+../src/tcp_server_func.c:289:11: warning: passing argument 1 of 'strcpy' from incompatible pointer type [-Wincompatible-pointer-types]
+    strcpy(&TCP_User_Recv_Buf, &TCPrecvBuffer);
+           ^~~~~~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/tcp_server_func.h:37,
+                 from ../src/tcp_server_func.c:1:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'char * restrict' but argument is of type 'int *'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+../src/tcp_server_func.c:289:31: warning: passing argument 2 of 'strcpy' from incompatible pointer type [-Wincompatible-pointer-types]
+    strcpy(&TCP_User_Recv_Buf, &TCPrecvBuffer);
+                               ^~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/tcp_server_func.h:37,
+                 from ../src/tcp_server_func.c:1:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'const char * restrict' but argument is of type 'char (*)[2000]'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+'Finished building: ../src/tcp_server_func.c'
+' '
+'Building file: ../src/udp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/udp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/udp_server_func.d" -MT"src/udp_server_func.o" -o "src/udp_server_func.o" "../src/udp_server_func.c"
+../src/udp_server_func.c:40:8: warning: type defaults to 'int' in declaration of 'UDP_User_Recv_Buf' [-Wimplicit-int]
+ extern UDP_User_Recv_Buf;
+        ^~~~~~~~~~~~~~~~~
+../src/udp_server_func.c:41:8: warning: type defaults to 'int' in declaration of 'UDP_User_Send_Buf' [-Wimplicit-int]
+ extern UDP_User_Send_Buf;
+        ^~~~~~~~~~~~~~~~~
+../src/udp_server_func.c: In function 'udp_recv_callback':
+../src/udp_server_func.c:103:10: warning: passing argument 1 of 'strcpy' from incompatible pointer type [-Wincompatible-pointer-types]
+   strcpy(&UDP_User_Recv_Buf, &UDPrecvBuffer);
+          ^~~~~~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/udp_server_func.h:37,
+                 from ../src/udp_server_func.c:31:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'char * restrict' but argument is of type 'int *'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+../src/udp_server_func.c:103:30: warning: passing argument 2 of 'strcpy' from incompatible pointer type [-Wincompatible-pointer-types]
+   strcpy(&UDP_User_Recv_Buf, &UDPrecvBuffer);
+                              ^~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/udp_server_func.h:37,
+                 from ../src/udp_server_func.c:31:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'const char * restrict' but argument is of type 'char (*)[2000]'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+'Finished building: ../src/udp_server_func.c'
+' '
+'Building file: ../src/user_xadc.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/user_xadc.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/user_xadc.d" -MT"src/user_xadc.o" -o "src/user_xadc.o" "../src/user_xadc.c"
+../src/user_xadc.c: In function 'XADC_Printf':
+../src/user_xadc.c:46:73: warning: unused variable 'VDDRData' [-Wunused-variable]
+  float TempData,VccIntData,VccAuxData,VBramData,VccPIntData,VccPAuxData,VDDRData;
+                                                                         ^~~~~~~~
+../src/user_xadc.c:46:61: warning: unused variable 'VccPAuxData' [-Wunused-variable]
+  float TempData,VccIntData,VccAuxData,VBramData,VccPIntData,VccPAuxData,VDDRData;
+                                                             ^~~~~~~~~~~
+../src/user_xadc.c:46:49: warning: unused variable 'VccPIntData' [-Wunused-variable]
+  float TempData,VccIntData,VccAuxData,VBramData,VccPIntData,VccPAuxData,VDDRData;
+                                                 ^~~~~~~~~~~
+../src/user_xadc.c:46:39: warning: unused variable 'VBramData' [-Wunused-variable]
+  float TempData,VccIntData,VccAuxData,VBramData,VccPIntData,VccPAuxData,VDDRData;
+                                       ^~~~~~~~~
+../src/user_xadc.c:46:28: warning: unused variable 'VccAuxData' [-Wunused-variable]
+  float TempData,VccIntData,VccAuxData,VBramData,VccPIntData,VccPAuxData,VDDRData;
+                            ^~~~~~~~~~
+../src/user_xadc.c:46:17: warning: unused variable 'VccIntData' [-Wunused-variable]
+  float TempData,VccIntData,VccAuxData,VBramData,VccPIntData,VccPAuxData,VDDRData;
+                 ^~~~~~~~~~
+../src/user_xadc.c:45:89: warning: unused variable 'VDDRRawData' [-Wunused-variable]
+  u32 TempRawData,VccIntRawData,VccAuxRawData,VBramRawData,VccPIntRawData,VccPAuxRawData,VDDRRawData;
+                                                                                         ^~~~~~~~~~~
+../src/user_xadc.c:45:74: warning: unused variable 'VccPAuxRawData' [-Wunused-variable]
+  u32 TempRawData,VccIntRawData,VccAuxRawData,VBramRawData,VccPIntRawData,VccPAuxRawData,VDDRRawData;
+                                                                          ^~~~~~~~~~~~~~
+../src/user_xadc.c:45:59: warning: unused variable 'VccPIntRawData' [-Wunused-variable]
+  u32 TempRawData,VccIntRawData,VccAuxRawData,VBramRawData,VccPIntRawData,VccPAuxRawData,VDDRRawData;
+                                                           ^~~~~~~~~~~~~~
+../src/user_xadc.c:45:46: warning: unused variable 'VBramRawData' [-Wunused-variable]
+  u32 TempRawData,VccIntRawData,VccAuxRawData,VBramRawData,VccPIntRawData,VccPAuxRawData,VDDRRawData;
+                                              ^~~~~~~~~~~~
+../src/user_xadc.c:45:32: warning: unused variable 'VccAuxRawData' [-Wunused-variable]
+  u32 TempRawData,VccIntRawData,VccAuxRawData,VBramRawData,VccPIntRawData,VccPAuxRawData,VDDRRawData;
+                                ^~~~~~~~~~~~~
+../src/user_xadc.c:45:18: warning: unused variable 'VccIntRawData' [-Wunused-variable]
+  u32 TempRawData,VccIntRawData,VccAuxRawData,VBramRawData,VccPIntRawData,VccPAuxRawData,VDDRRawData;
+                  ^~~~~~~~~~~~~
+'Finished building: ../src/user_xadc.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158840	   3456	2152752	2315048	 235328	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+19:07:30 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/udp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/udp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/udp_server_func.d" -MT"src/udp_server_func.o" -o "src/udp_server_func.o" "../src/udp_server_func.c"
+../src/udp_server_func.c:40:8: warning: type defaults to 'int' in declaration of 'UDP_User_Recv_Buf' [-Wimplicit-int]
+ extern UDP_User_Recv_Buf;  // 接收buffer， 在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/udp_server_func.c:41:8: warning: type defaults to 'int' in declaration of 'UDP_User_Send_Buf' [-Wimplicit-int]
+ extern UDP_User_Send_Buf;  // 发送buffer， 在main中定义和赋值
+        ^~~~~~~~~~~~~~~~~
+../src/udp_server_func.c: In function 'udp_recv_callback':
+../src/udp_server_func.c:103:10: warning: passing argument 1 of 'strcpy' from incompatible pointer type [-Wincompatible-pointer-types]
+   strcpy(&UDP_User_Recv_Buf, &UDPrecvBuffer);
+          ^~~~~~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/udp_server_func.h:37,
+                 from ../src/udp_server_func.c:31:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'char * restrict' but argument is of type 'int *'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+../src/udp_server_func.c:103:30: warning: passing argument 2 of 'strcpy' from incompatible pointer type [-Wincompatible-pointer-types]
+   strcpy(&UDP_User_Recv_Buf, &UDPrecvBuffer);
+                              ^~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/udp_server_func.h:37,
+                 from ../src/udp_server_func.c:31:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'const char * restrict' but argument is of type 'char (*)[2000]'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+'Finished building: ../src/udp_server_func.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158840	   3456	2152752	2315048	 235328	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+19:20:08 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/udp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/udp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/udp_server_func.d" -MT"src/udp_server_func.o" -o "src/udp_server_func.o" "../src/udp_server_func.c"
+../src/udp_server_func.c:40:8: warning: type defaults to 'int' in declaration of 'UDP_User_Recv_Buf' [-Wimplicit-int]
+ extern UDP_User_Recv_Buf;  // 接收buffer， 在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/udp_server_func.c:41:8: warning: type defaults to 'int' in declaration of 'UDP_User_Send_Buf' [-Wimplicit-int]
+ extern UDP_User_Send_Buf;  // 发送buffer， 在main中定义和赋值
+        ^~~~~~~~~~~~~~~~~
+../src/udp_server_func.c: In function 'udp_recv_callback':
+../src/udp_server_func.c:100:10: warning: passing argument 1 of 'strcpy' from incompatible pointer type [-Wincompatible-pointer-types]
+   strcpy(&UDP_User_Recv_Buf, &UDPrecvBuffer);
+          ^~~~~~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/udp_server_func.h:37,
+                 from ../src/udp_server_func.c:31:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'char * restrict' but argument is of type 'int *'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+../src/udp_server_func.c:100:30: warning: passing argument 2 of 'strcpy' from incompatible pointer type [-Wincompatible-pointer-types]
+   strcpy(&UDP_User_Recv_Buf, &UDPrecvBuffer);
+                              ^~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/udp_server_func.h:37,
+                 from ../src/udp_server_func.c:31:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'const char * restrict' but argument is of type 'char (*)[2000]'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+'Finished building: ../src/udp_server_func.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158856	   3456	2152752	2315064	 235338	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+19:23:58 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/udp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/udp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/udp_server_func.d" -MT"src/udp_server_func.o" -o "src/udp_server_func.o" "../src/udp_server_func.c"
+../src/udp_server_func.c:40:8: warning: type defaults to 'int' in declaration of 'UDP_User_Recv_Buf' [-Wimplicit-int]
+ extern UDP_User_Recv_Buf;  // 接收buffer， 在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/udp_server_func.c:41:8: warning: type defaults to 'int' in declaration of 'UDP_User_Send_Buf' [-Wimplicit-int]
+ extern UDP_User_Send_Buf;  // 发送buffer， 在main中定义和赋值
+        ^~~~~~~~~~~~~~~~~
+../src/udp_server_func.c: In function 'udp_recv_callback':
+../src/udp_server_func.c:101:10: warning: passing argument 1 of 'strcpy' from incompatible pointer type [-Wincompatible-pointer-types]
+   strcpy(&UDP_User_Recv_Buf, &UDPrecvBuffer);
+          ^~~~~~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/udp_server_func.h:37,
+                 from ../src/udp_server_func.c:31:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'char * restrict' but argument is of type 'int *'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+../src/udp_server_func.c:101:30: warning: passing argument 2 of 'strcpy' from incompatible pointer type [-Wincompatible-pointer-types]
+   strcpy(&UDP_User_Recv_Buf, &UDPrecvBuffer);
+                              ^~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/udp_server_func.h:37,
+                 from ../src/udp_server_func.c:31:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'const char * restrict' but argument is of type 'char (*)[2000]'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+'Finished building: ../src/udp_server_func.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158856	   3456	2152752	2315064	 235338	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+19:24:04 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/udp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/udp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/udp_server_func.d" -MT"src/udp_server_func.o" -o "src/udp_server_func.o" "../src/udp_server_func.c"
+../src/udp_server_func.c:40:8: warning: type defaults to 'int' in declaration of 'UDP_User_Recv_Buf' [-Wimplicit-int]
+ extern UDP_User_Recv_Buf;  // 接收buffer， 在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/udp_server_func.c:41:8: warning: type defaults to 'int' in declaration of 'UDP_User_Send_Buf' [-Wimplicit-int]
+ extern UDP_User_Send_Buf;  // 发送buffer， 在main中定义和赋值
+        ^~~~~~~~~~~~~~~~~
+../src/udp_server_func.c: In function 'udp_recv_callback':
+../src/udp_server_func.c:101:10: warning: passing argument 1 of 'strcpy' makes pointer from integer without a cast [-Wint-conversion]
+   strcpy(UDP_User_Recv_Buf, UDPrecvBuffer);
+          ^~~~~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/udp_server_func.h:37,
+                 from ../src/udp_server_func.c:31:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'char * restrict' but argument is of type 'int'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+'Finished building: ../src/udp_server_func.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158856	   3456	2152752	2315064	 235338	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+19:24:33 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/udp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/udp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/udp_server_func.d" -MT"src/udp_server_func.o" -o "src/udp_server_func.o" "../src/udp_server_func.c"
+../src/udp_server_func.c:40:8: warning: type defaults to 'int' in declaration of 'UDP_User_Recv_Buf' [-Wimplicit-int]
+ extern UDP_User_Recv_Buf;  // 接收buffer， 在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/udp_server_func.c:41:8: warning: type defaults to 'int' in declaration of 'UDP_User_Send_Buf' [-Wimplicit-int]
+ extern UDP_User_Send_Buf;  // 发送buffer， 在main中定义和赋值
+        ^~~~~~~~~~~~~~~~~
+../src/udp_server_func.c: In function 'udp_recv_callback':
+../src/udp_server_func.c:101:10: warning: passing argument 1 of 'strcpy' makes pointer from integer without a cast [-Wint-conversion]
+   strcpy(UDP_User_Recv_Buf, &UDPrecvBuffer);
+          ^~~~~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/udp_server_func.h:37,
+                 from ../src/udp_server_func.c:31:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'char * restrict' but argument is of type 'int'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+../src/udp_server_func.c:101:29: warning: passing argument 2 of 'strcpy' from incompatible pointer type [-Wincompatible-pointer-types]
+   strcpy(UDP_User_Recv_Buf, &UDPrecvBuffer);
+                             ^~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/udp_server_func.h:37,
+                 from ../src/udp_server_func.c:31:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'const char * restrict' but argument is of type 'char (*)[2000]'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+'Finished building: ../src/udp_server_func.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158856	   3456	2152752	2315064	 235338	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+19:24:43 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/udp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/udp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/udp_server_func.d" -MT"src/udp_server_func.o" -o "src/udp_server_func.o" "../src/udp_server_func.c"
+../src/udp_server_func.c:40:8: warning: type defaults to 'int' in declaration of 'UDP_User_Recv_Buf' [-Wimplicit-int]
+ extern UDP_User_Recv_Buf;  // 接收buffer， 在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/udp_server_func.c:41:8: warning: type defaults to 'int' in declaration of 'UDP_User_Send_Buf' [-Wimplicit-int]
+ extern UDP_User_Send_Buf;  // 发送buffer， 在main中定义和赋值
+        ^~~~~~~~~~~~~~~~~
+../src/udp_server_func.c: In function 'udp_recv_callback':
+../src/udp_server_func.c:101:10: warning: passing argument 1 of 'strcpy' from incompatible pointer type [-Wincompatible-pointer-types]
+   strcpy(&UDP_User_Recv_Buf, UDPrecvBuffer);
+          ^~~~~~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/udp_server_func.h:37,
+                 from ../src/udp_server_func.c:31:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'char * restrict' but argument is of type 'int *'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+'Finished building: ../src/udp_server_func.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158856	   3456	2152752	2315064	 235338	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+19:24:53 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/udp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/udp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/udp_server_func.d" -MT"src/udp_server_func.o" -o "src/udp_server_func.o" "../src/udp_server_func.c"
+../src/udp_server_func.c:40:8: warning: type defaults to 'int' in declaration of 'UDP_User_Recv_Buf' [-Wimplicit-int]
+ extern UDP_User_Recv_Buf;  // 接收buffer， 在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/udp_server_func.c:41:8: warning: type defaults to 'int' in declaration of 'UDP_User_Send_Buf' [-Wimplicit-int]
+ extern UDP_User_Send_Buf;  // 发送buffer， 在main中定义和赋值
+        ^~~~~~~~~~~~~~~~~
+../src/udp_server_func.c: In function 'udp_recv_callback':
+../src/udp_server_func.c:101:10: warning: passing argument 1 of 'strcpy' from incompatible pointer type [-Wincompatible-pointer-types]
+   strcpy(&UDP_User_Recv_Buf, *UDPrecvBuffer);
+          ^~~~~~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/udp_server_func.h:37,
+                 from ../src/udp_server_func.c:31:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'char * restrict' but argument is of type 'int *'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+../src/udp_server_func.c:101:30: warning: passing argument 2 of 'strcpy' makes pointer from integer without a cast [-Wint-conversion]
+   strcpy(&UDP_User_Recv_Buf, *UDPrecvBuffer);
+                              ^~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/udp_server_func.h:37,
+                 from ../src/udp_server_func.c:31:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'const char * restrict' but argument is of type 'char'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+'Finished building: ../src/udp_server_func.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158856	   3456	2152752	2315064	 235338	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+19:25:04 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/udp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/udp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/udp_server_func.d" -MT"src/udp_server_func.o" -o "src/udp_server_func.o" "../src/udp_server_func.c"
+../src/udp_server_func.c:40:8: warning: type defaults to 'int' in declaration of 'UDP_User_Recv_Buf' [-Wimplicit-int]
+ extern UDP_User_Recv_Buf;  // 接收buffer， 在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/udp_server_func.c:41:8: warning: type defaults to 'int' in declaration of 'UDP_User_Send_Buf' [-Wimplicit-int]
+ extern UDP_User_Send_Buf;  // 发送buffer， 在main中定义和赋值
+        ^~~~~~~~~~~~~~~~~
+../src/udp_server_func.c: In function 'udp_recv_callback':
+../src/udp_server_func.c:101:10: error: invalid type argument of unary '*' (have 'int')
+   strcpy(*UDP_User_Recv_Buf, UDPrecvBuffer);
+          ^~~~~~~~~~~~~~~~~~
+make: *** [src/subdir.mk:59: src/udp_server_func.o] Error 1
+19:25:13 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/udp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/udp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/udp_server_func.d" -MT"src/udp_server_func.o" -o "src/udp_server_func.o" "../src/udp_server_func.c"
+../src/udp_server_func.c:40:8: warning: type defaults to 'int' in declaration of 'UDP_User_Recv_Buf' [-Wimplicit-int]
+ extern UDP_User_Recv_Buf;  // 接收buffer， 在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/udp_server_func.c:41:8: warning: type defaults to 'int' in declaration of 'UDP_User_Send_Buf' [-Wimplicit-int]
+ extern UDP_User_Send_Buf;  // 发送buffer， 在main中定义和赋值
+        ^~~~~~~~~~~~~~~~~
+../src/udp_server_func.c: In function 'udp_recv_callback':
+../src/udp_server_func.c:101:10: warning: passing argument 1 of 'strcpy' makes pointer from integer without a cast [-Wint-conversion]
+   strcpy(UDP_User_Recv_Buf, UDPrecvBuffer);
+          ^~~~~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/udp_server_func.h:37,
+                 from ../src/udp_server_func.c:31:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'char * restrict' but argument is of type 'int'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+'Finished building: ../src/udp_server_func.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158856	   3456	2152752	2315064	 235338	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+19:26:18 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/udp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/udp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/udp_server_func.d" -MT"src/udp_server_func.o" -o "src/udp_server_func.o" "../src/udp_server_func.c"
+../src/udp_server_func.c:40:8: warning: type defaults to 'int' in declaration of 'UDP_User_Recv_Buf' [-Wimplicit-int]
+ extern UDP_User_Recv_Buf;  // 接收buffer， 在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/udp_server_func.c:41:8: warning: type defaults to 'int' in declaration of 'UDP_User_Send_Buf' [-Wimplicit-int]
+ extern UDP_User_Send_Buf;  // 发送buffer， 在main中定义和赋值
+        ^~~~~~~~~~~~~~~~~
+'Finished building: ../src/udp_server_func.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158792	   3456	2152752	2315000	 2352f8	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+19:29:12 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/udp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/udp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/udp_server_func.d" -MT"src/udp_server_func.o" -o "src/udp_server_func.o" "../src/udp_server_func.c"
+../src/udp_server_func.c:40:8: warning: type defaults to 'int' in declaration of 'UDP_User_Recv_Buf' [-Wimplicit-int]
+ extern UDP_User_Recv_Buf;  // 接收buffer， 在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/udp_server_func.c:41:8: warning: type defaults to 'int' in declaration of 'UDP_User_Send_Buf' [-Wimplicit-int]
+ extern UDP_User_Send_Buf;  // 发送buffer， 在main中定义和赋值
+        ^~~~~~~~~~~~~~~~~
+../src/udp_server_func.c: In function 'UDP_Send_data':
+../src/udp_server_func.c:120:33: warning: 'sizeof' on array function parameter 'a' will return size of 'const char *' [-Wsizeof-array-argument]
+  memcpy(UDPsendBuffer, a, sizeof(a));
+                                 ^
+../src/udp_server_func.c:114:31: note: declared here
+ void UDP_Send_data(const char a[]){
+                    ~~~~~~~~~~~^~~
+../src/udp_server_func.c:120:33: warning: argument to 'sizeof' in 'memcpy' call is the same expression as the source; did you mean to provide an explicit length? [-Wsizeof-pointer-memaccess]
+  memcpy(UDPsendBuffer, a, sizeof(a));
+                                 ^
+'Finished building: ../src/udp_server_func.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158792	   3456	2152752	2315000	 2352f8	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+19:30:15 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/udp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/udp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/udp_server_func.d" -MT"src/udp_server_func.o" -o "src/udp_server_func.o" "../src/udp_server_func.c"
+../src/udp_server_func.c:40:8: warning: type defaults to 'int' in declaration of 'UDP_User_Recv_Buf' [-Wimplicit-int]
+ extern UDP_User_Recv_Buf;  // 接收buffer， 在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/udp_server_func.c:41:8: warning: type defaults to 'int' in declaration of 'UDP_User_Send_Buf' [-Wimplicit-int]
+ extern UDP_User_Send_Buf;  // 发送buffer， 在main中定义和赋值
+        ^~~~~~~~~~~~~~~~~
+'Finished building: ../src/udp_server_func.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158792	   3456	2152752	2315000	 2352f8	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+19:31:32 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/udp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/udp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/udp_server_func.d" -MT"src/udp_server_func.o" -o "src/udp_server_func.o" "../src/udp_server_func.c"
+../src/udp_server_func.c:40:8: warning: type defaults to 'int' in declaration of 'UDP_User_Recv_Buf' [-Wimplicit-int]
+ extern UDP_User_Recv_Buf;  // 接收buffer， 在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/udp_server_func.c:41:8: warning: type defaults to 'int' in declaration of 'UDP_User_Send_Buf' [-Wimplicit-int]
+ extern UDP_User_Send_Buf;  // 发送buffer， 在main中定义和赋值
+        ^~~~~~~~~~~~~~~~~
+'Finished building: ../src/udp_server_func.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158792	   3456	2152752	2315000	 2352f8	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+19:34:11 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/udp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/udp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/udp_server_func.d" -MT"src/udp_server_func.o" -o "src/udp_server_func.o" "../src/udp_server_func.c"
+../src/udp_server_func.c:40:8: warning: type defaults to 'int' in declaration of 'UDP_User_Recv_Buf' [-Wimplicit-int]
+ extern UDP_User_Recv_Buf;  // 接收buffer， 在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/udp_server_func.c:41:8: warning: type defaults to 'int' in declaration of 'UDP_User_Send_Buf' [-Wimplicit-int]
+ extern UDP_User_Send_Buf;  // 发送buffer， 在main中定义和赋值
+        ^~~~~~~~~~~~~~~~~
+'Finished building: ../src/udp_server_func.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158792	   3456	2152752	2315000	 2352f8	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+19:34:42 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/udp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/udp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/udp_server_func.d" -MT"src/udp_server_func.o" -o "src/udp_server_func.o" "../src/udp_server_func.c"
+../src/udp_server_func.c:40:8: warning: type defaults to 'int' in declaration of 'UDP_User_Recv_Buf' [-Wimplicit-int]
+ extern UDP_User_Recv_Buf;  // 接收buffer， 在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/udp_server_func.c:41:8: warning: type defaults to 'int' in declaration of 'UDP_User_Send_Buf' [-Wimplicit-int]
+ extern UDP_User_Send_Buf;  // 发送buffer， 在main中定义和赋值
+        ^~~~~~~~~~~~~~~~~
+'Finished building: ../src/udp_server_func.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158792	   3456	2152752	2315000	 2352f8	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+19:36:11 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/udp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/udp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/udp_server_func.d" -MT"src/udp_server_func.o" -o "src/udp_server_func.o" "../src/udp_server_func.c"
+../src/udp_server_func.c:40:8: warning: type defaults to 'int' in declaration of 'UDP_User_Recv_Buf' [-Wimplicit-int]
+ extern UDP_User_Recv_Buf;  // 接收buffer， 在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/udp_server_func.c:41:8: warning: type defaults to 'int' in declaration of 'UDP_User_Send_Buf' [-Wimplicit-int]
+ extern UDP_User_Send_Buf;  // 发送buffer， 在main中定义和赋值
+        ^~~~~~~~~~~~~~~~~
+'Finished building: ../src/udp_server_func.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158792	   3456	2152752	2315000	 2352f8	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+19:44:18 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:279:23: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+  OLED_ShowString(0,0, oled_string);
+                       ^~~~~~~~~~~
+In file included from ../src/main.c:41:
+../src/oled.h:62:6: note: expected 'const u8 *' {aka 'const unsigned char *'} but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/main.c:360:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+    OLED_ShowString(0,16, olde_stat_string);
+                          ^~~~~~~~~~~~~~~~
+In file included from ../src/main.c:41:
+../src/oled.h:62:6: note: expected 'const u8 *' {aka 'const unsigned char *'} but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/main.c:263:6: warning: unused variable 'flag_first_udp' [-Wunused-variable]
+  int flag_first_udp = 0;
+      ^~~~~~~~~~~~~~
+../src/main.c:262:6: warning: unused variable 'flag_first_tcp' [-Wunused-variable]
+  int flag_first_tcp = 0;
+      ^~~~~~~~~~~~~~
+../src/main.c:278:36: warning: 'TCP | UDP | CMD' directive writing 15 bytes into a region of size 12 [-Wformat-overflow=]
+  sprintf(oled_string, "TCP | UDP | CMD");
+                        ~~~~~~~~~~~~^~~
+../src/main.c:278:2: note: 'sprintf' output 16 bytes into a destination of size 12
+  sprintf(oled_string, "TCP | UDP | CMD");
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158792	   3456	2152752	2315000	 2352f8	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+19:44:35 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/tcp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/tcp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/tcp_server_func.d" -MT"src/tcp_server_func.o" -o "src/tcp_server_func.o" "../src/tcp_server_func.c"
+../src/tcp_server_func.c:13:8: warning: type defaults to 'int' in declaration of 'TCP_User_Send_Buf' [-Wimplicit-int]
+ extern TCP_User_Send_Buf;//发送buffer，在main中定义和改写
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c:14:8: warning: type defaults to 'int' in declaration of 'TCP_User_Recv_Buf' [-Wimplicit-int]
+ extern TCP_User_Recv_Buf;//接收buffer，在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c: In function 'tcp_recv_callback':
+../src/tcp_server_func.c:287:11: warning: passing argument 1 of 'strcpy' from incompatible pointer type [-Wincompatible-pointer-types]
+    strcpy(&TCP_User_Recv_Buf, &TCPrecvBuffer);
+           ^~~~~~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/tcp_server_func.h:37,
+                 from ../src/tcp_server_func.c:1:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'char * restrict' but argument is of type 'int *'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+../src/tcp_server_func.c:287:31: warning: passing argument 2 of 'strcpy' from incompatible pointer type [-Wincompatible-pointer-types]
+    strcpy(&TCP_User_Recv_Buf, &TCPrecvBuffer);
+                               ^~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/tcp_server_func.h:37,
+                 from ../src/tcp_server_func.c:1:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'const char * restrict' but argument is of type 'char (*)[2000]'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+'Finished building: ../src/tcp_server_func.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158792	   3456	2152752	2315000	 2352f8	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+19:57:31 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/tcp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/tcp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/tcp_server_func.d" -MT"src/tcp_server_func.o" -o "src/tcp_server_func.o" "../src/tcp_server_func.c"
+../src/tcp_server_func.c:13:8: warning: type defaults to 'int' in declaration of 'TCP_User_Send_Buf' [-Wimplicit-int]
+ extern TCP_User_Send_Buf;//发送buffer，在main中定义和改写
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c:14:8: warning: type defaults to 'int' in declaration of 'TCP_User_Recv_Buf' [-Wimplicit-int]
+ extern TCP_User_Recv_Buf;//接收buffer，在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c:24:41: error: stray '\243' in program
+ void TCP_receive_commend(struct pbuf *p)；
+                                         ^
+../src/tcp_server_func.c:24:42: error: stray '\273' in program
+ void TCP_receive_commend(struct pbuf *p)；
+                                          ^
+../src/tcp_server_func.c: In function 'TCP_receive_commend':
+../src/tcp_server_func.c:28:1: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+ {
+ ^
+../src/tcp_server_func.c:46:35: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+ void TCP_print_received_data(void){
+                                   ^
+../src/tcp_server_func.c:56:1: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+ {
+ ^
+../src/tcp_server_func.c:85:1: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+ {
+ ^
+../src/tcp_server_func.c:109:55: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+ void send_data_c(struct tcp_pcb *tpcb, struct pbuf* p){
+                                                       ^
+../src/tcp_server_func.c:129:34: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+ void send_data_c1(const char a[]){
+                                  ^
+../src/tcp_server_func.c:144:69: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+ void send_data_d(struct tcp_pcb *tpcb, struct tcp_server_struct *es){
+                                                                     ^
+../src/tcp_server_func.c:165:35: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+ void TCP_send_data(const char a[]){
+                                   ^
+../src/tcp_server_func.c:194:41: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+ void TCP_receive_commend(struct pbuf *p){
+                                         ^
+../src/tcp_server_func.c:220:1: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+ {
+ ^
+../src/tcp_server_func.c:305:1: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+ {
+ ^
+../src/tcp_server_func.c:318:1: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+ {
+ ^
+../src/tcp_server_func.c:353:1: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+ {
+ ^
+../src/tcp_server_func.c:367:1: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+ {
+ ^
+../src/tcp_server_func.c:373:66: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+ err_t tcp_server_accept(void *arg,struct tcp_pcb *tpcb,err_t err){
+                                                                  ^
+../src/tcp_server_func.c:412:1: error: expected '=', ',', ';', 'asm' or '__attribute__' before '{' token
+ {
+ ^
+../src/tcp_server_func.c:445: error: expected '{' at end of input
+ 
+ 
+In file included from ../src/tcp_server_func.c:1:
+../src/tcp_server_func.c: At top level:
+../src/tcp_server_func.h:71:14: warning: 'tcp_sent_callback' declared 'static' but never defined [-Wunused-function]
+ static err_t tcp_sent_callback(void *arg, struct tcp_pcb *tpcb, u16_t len);
+              ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c:4:24: warning: 'connected_TCP_pcb' defined but not used [-Wunused-variable]
+ static struct tcp_pcb *connected_TCP_pcb = NULL; // connected_pcb c_pcb
+                        ^~~~~~~~~~~~~~~~~
+make: *** [src/subdir.mk:59: src/tcp_server_func.o] Error 1
+19:57:42 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/tcp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/tcp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/tcp_server_func.d" -MT"src/tcp_server_func.o" -o "src/tcp_server_func.o" "../src/tcp_server_func.c"
+../src/tcp_server_func.c:13:8: warning: type defaults to 'int' in declaration of 'TCP_User_Send_Buf' [-Wimplicit-int]
+ extern TCP_User_Send_Buf;//发送buffer，在main中定义和改写
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c:14:8: warning: type defaults to 'int' in declaration of 'TCP_User_Recv_Buf' [-Wimplicit-int]
+ extern TCP_User_Recv_Buf;//接收buffer，在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c: In function 'tcp_recv_callback':
+../src/tcp_server_func.c:265:11: warning: passing argument 1 of 'strcpy' from incompatible pointer type [-Wincompatible-pointer-types]
+    strcpy(&TCP_User_Recv_Buf, &TCPrecvBuffer);
+           ^~~~~~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/tcp_server_func.h:37,
+                 from ../src/tcp_server_func.c:1:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'char * restrict' but argument is of type 'int *'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+../src/tcp_server_func.c:265:31: warning: passing argument 2 of 'strcpy' from incompatible pointer type [-Wincompatible-pointer-types]
+    strcpy(&TCP_User_Recv_Buf, &TCPrecvBuffer);
+                               ^~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/tcp_server_func.h:37,
+                 from ../src/tcp_server_func.c:1:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'const char * restrict' but argument is of type 'char (*)[2000]'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+'Finished building: ../src/tcp_server_func.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158680	   3456	2152752	2314888	 235288	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+19:59:58 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/tcp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/tcp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/tcp_server_func.d" -MT"src/tcp_server_func.o" -o "src/tcp_server_func.o" "../src/tcp_server_func.c"
+../src/tcp_server_func.c:13:8: warning: type defaults to 'int' in declaration of 'TCP_User_Send_Buf' [-Wimplicit-int]
+ extern TCP_User_Send_Buf;//发送buffer，在main中定义和改写
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c:14:8: warning: type defaults to 'int' in declaration of 'TCP_User_Recv_Buf' [-Wimplicit-int]
+ extern TCP_User_Recv_Buf;//接收buffer，在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c: In function 'tcp_recv_callback':
+../src/tcp_server_func.c:265:11: warning: passing argument 1 of 'strcpy' from incompatible pointer type [-Wincompatible-pointer-types]
+    strcpy(&TCP_User_Recv_Buf, &TCPrecvBuffer);
+           ^~~~~~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/tcp_server_func.h:37,
+                 from ../src/tcp_server_func.c:1:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'char * restrict' but argument is of type 'int *'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+../src/tcp_server_func.c:265:31: warning: passing argument 2 of 'strcpy' from incompatible pointer type [-Wincompatible-pointer-types]
+    strcpy(&TCP_User_Recv_Buf, &TCPrecvBuffer);
+                               ^~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/tcp_server_func.h:37,
+                 from ../src/tcp_server_func.c:1:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'const char * restrict' but argument is of type 'char (*)[2000]'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+../src/tcp_server_func.c:296:3: error: 'es' undeclared (first use in this function)
+   es->p=NULL;
+   ^~
+../src/tcp_server_func.c:296:3: note: each undeclared identifier is reported only once for each function it appears in
+make: *** [src/subdir.mk:59: src/tcp_server_func.o] Error 1
+20:00:16 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/tcp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/tcp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/tcp_server_func.d" -MT"src/tcp_server_func.o" -o "src/tcp_server_func.o" "../src/tcp_server_func.c"
+../src/tcp_server_func.c:13:8: warning: type defaults to 'int' in declaration of 'TCP_User_Send_Buf' [-Wimplicit-int]
+ extern TCP_User_Send_Buf;//发送buffer，在main中定义和改写
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c:14:8: warning: type defaults to 'int' in declaration of 'TCP_User_Recv_Buf' [-Wimplicit-int]
+ extern TCP_User_Recv_Buf;//接收buffer，在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c: In function 'tcp_recv_callback':
+../src/tcp_server_func.c:265:11: warning: passing argument 1 of 'strcpy' from incompatible pointer type [-Wincompatible-pointer-types]
+    strcpy(&TCP_User_Recv_Buf, &TCPrecvBuffer);
+           ^~~~~~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/tcp_server_func.h:37,
+                 from ../src/tcp_server_func.c:1:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'char * restrict' but argument is of type 'int *'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+../src/tcp_server_func.c:265:31: warning: passing argument 2 of 'strcpy' from incompatible pointer type [-Wincompatible-pointer-types]
+    strcpy(&TCP_User_Recv_Buf, &TCPrecvBuffer);
+                               ^~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/tcp_server_func.h:37,
+                 from ../src/tcp_server_func.c:1:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'const char * restrict' but argument is of type 'char (*)[2000]'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+'Finished building: ../src/tcp_server_func.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158680	   3456	2152752	2314888	 235288	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+20:00:58 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/tcp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/tcp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/tcp_server_func.d" -MT"src/tcp_server_func.o" -o "src/tcp_server_func.o" "../src/tcp_server_func.c"
+../src/tcp_server_func.c:13:8: warning: type defaults to 'int' in declaration of 'TCP_User_Send_Buf' [-Wimplicit-int]
+ extern TCP_User_Send_Buf;//发送buffer，在main中定义和改写
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c:14:8: warning: type defaults to 'int' in declaration of 'TCP_User_Recv_Buf' [-Wimplicit-int]
+ extern TCP_User_Recv_Buf;//接收buffer，在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c: In function 'tcp_recv_callback':
+../src/tcp_server_func.c:265:11: warning: passing argument 1 of 'strcpy' from incompatible pointer type [-Wincompatible-pointer-types]
+    strcpy(&TCP_User_Recv_Buf, &TCPrecvBuffer);
+           ^~~~~~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/tcp_server_func.h:37,
+                 from ../src/tcp_server_func.c:1:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'char * restrict' but argument is of type 'int *'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+../src/tcp_server_func.c:265:31: warning: passing argument 2 of 'strcpy' from incompatible pointer type [-Wincompatible-pointer-types]
+    strcpy(&TCP_User_Recv_Buf, &TCPrecvBuffer);
+                               ^~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/tcp_server_func.h:37,
+                 from ../src/tcp_server_func.c:1:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'const char * restrict' but argument is of type 'char (*)[2000]'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+'Finished building: ../src/tcp_server_func.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158680	   3456	2152752	2314888	 235288	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+20:02:01 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/tcp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/tcp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/tcp_server_func.d" -MT"src/tcp_server_func.o" -o "src/tcp_server_func.o" "../src/tcp_server_func.c"
+../src/tcp_server_func.c:13:8: warning: type defaults to 'int' in declaration of 'TCP_User_Send_Buf' [-Wimplicit-int]
+ extern TCP_User_Send_Buf;//发送buffer，在main中定义和改写
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c:14:8: warning: type defaults to 'int' in declaration of 'TCP_User_Recv_Buf' [-Wimplicit-int]
+ extern TCP_User_Recv_Buf;//接收buffer，在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c: In function 'tcp_recv_callback':
+../src/tcp_server_func.c:265:11: warning: passing argument 1 of 'strcpy' from incompatible pointer type [-Wincompatible-pointer-types]
+    strcpy(&TCP_User_Recv_Buf, &TCPrecvBuffer);
+           ^~~~~~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/tcp_server_func.h:37,
+                 from ../src/tcp_server_func.c:1:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'char * restrict' but argument is of type 'int *'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+../src/tcp_server_func.c:265:31: warning: passing argument 2 of 'strcpy' from incompatible pointer type [-Wincompatible-pointer-types]
+    strcpy(&TCP_User_Recv_Buf, &TCPrecvBuffer);
+                               ^~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/tcp_server_func.h:37,
+                 from ../src/tcp_server_func.c:1:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'const char * restrict' but argument is of type 'char (*)[2000]'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+'Finished building: ../src/tcp_server_func.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158680	   3456	2152752	2314888	 235288	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+20:02:53 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/tcp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/tcp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/tcp_server_func.d" -MT"src/tcp_server_func.o" -o "src/tcp_server_func.o" "../src/tcp_server_func.c"
+../src/tcp_server_func.c:13:8: warning: type defaults to 'int' in declaration of 'TCP_User_Send_Buf' [-Wimplicit-int]
+ extern TCP_User_Send_Buf;//发送buffer，在main中定义和改写
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c:14:8: warning: type defaults to 'int' in declaration of 'TCP_User_Recv_Buf' [-Wimplicit-int]
+ extern TCP_User_Recv_Buf;//接收buffer，在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c: In function 'tcp_recv_callback':
+../src/tcp_server_func.c:265:11: warning: passing argument 1 of 'strcpy' from incompatible pointer type [-Wincompatible-pointer-types]
+    strcpy(&TCP_User_Recv_Buf, &TCPrecvBuffer);
+           ^~~~~~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/tcp_server_func.h:37,
+                 from ../src/tcp_server_func.c:1:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'char * restrict' but argument is of type 'int *'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+../src/tcp_server_func.c:265:31: warning: passing argument 2 of 'strcpy' from incompatible pointer type [-Wincompatible-pointer-types]
+    strcpy(&TCP_User_Recv_Buf, &TCPrecvBuffer);
+                               ^~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/tcp_server_func.h:37,
+                 from ../src/tcp_server_func.c:1:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'const char * restrict' but argument is of type 'char (*)[2000]'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+'Finished building: ../src/tcp_server_func.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158680	   3456	2152752	2314888	 235288	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+20:03:10 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/tcp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/tcp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/tcp_server_func.d" -MT"src/tcp_server_func.o" -o "src/tcp_server_func.o" "../src/tcp_server_func.c"
+../src/tcp_server_func.c:13:8: warning: type defaults to 'int' in declaration of 'TCP_User_Send_Buf' [-Wimplicit-int]
+ extern TCP_User_Send_Buf;//发送buffer，在main中定义和改写
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c:14:8: warning: type defaults to 'int' in declaration of 'TCP_User_Recv_Buf' [-Wimplicit-int]
+ extern TCP_User_Recv_Buf;//接收buffer，在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c: In function 'tcp_recv_callback':
+../src/tcp_server_func.c:265:11: warning: passing argument 1 of 'strcpy' from incompatible pointer type [-Wincompatible-pointer-types]
+    strcpy(&TCP_User_Recv_Buf, &TCPrecvBuffer);
+           ^~~~~~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/tcp_server_func.h:37,
+                 from ../src/tcp_server_func.c:1:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'char * restrict' but argument is of type 'int *'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+../src/tcp_server_func.c:265:31: warning: passing argument 2 of 'strcpy' from incompatible pointer type [-Wincompatible-pointer-types]
+    strcpy(&TCP_User_Recv_Buf, &TCPrecvBuffer);
+                               ^~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/tcp_server_func.h:37,
+                 from ../src/tcp_server_func.c:1:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'const char * restrict' but argument is of type 'char (*)[2000]'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+'Finished building: ../src/tcp_server_func.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158680	   3456	2152752	2314888	 235288	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+20:03:19 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/tcp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/tcp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/tcp_server_func.d" -MT"src/tcp_server_func.o" -o "src/tcp_server_func.o" "../src/tcp_server_func.c"
+../src/tcp_server_func.c:13:8: warning: type defaults to 'int' in declaration of 'TCP_User_Send_Buf' [-Wimplicit-int]
+ extern TCP_User_Send_Buf;//发送buffer，在main中定义和改写
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c:14:8: warning: type defaults to 'int' in declaration of 'TCP_User_Recv_Buf' [-Wimplicit-int]
+ extern TCP_User_Recv_Buf;//接收buffer，在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c: In function 'tcp_recv_callback':
+../src/tcp_server_func.c:265:11: warning: passing argument 1 of 'strcpy' from incompatible pointer type [-Wincompatible-pointer-types]
+    strcpy(&TCP_User_Recv_Buf, &TCPrecvBuffer);
+           ^~~~~~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/tcp_server_func.h:37,
+                 from ../src/tcp_server_func.c:1:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'char * restrict' but argument is of type 'int *'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+../src/tcp_server_func.c:265:31: warning: passing argument 2 of 'strcpy' from incompatible pointer type [-Wincompatible-pointer-types]
+    strcpy(&TCP_User_Recv_Buf, &TCPrecvBuffer);
+                               ^~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/tcp_server_func.h:37,
+                 from ../src/tcp_server_func.c:1:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'const char * restrict' but argument is of type 'char (*)[2000]'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+'Finished building: ../src/tcp_server_func.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158680	   3456	2152752	2314888	 235288	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+20:13:37 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/tcp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/tcp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/tcp_server_func.d" -MT"src/tcp_server_func.o" -o "src/tcp_server_func.o" "../src/tcp_server_func.c"
+../src/tcp_server_func.c:13:8: warning: type defaults to 'int' in declaration of 'TCP_User_Send_Buf' [-Wimplicit-int]
+ extern TCP_User_Send_Buf;//发送buffer，在main中定义和改写
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c:14:8: warning: type defaults to 'int' in declaration of 'TCP_User_Recv_Buf' [-Wimplicit-int]
+ extern TCP_User_Recv_Buf;//接收buffer，在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c: In function 'tcp_recv_callback':
+../src/tcp_server_func.c:279:11: warning: passing argument 1 of 'strcpy' makes pointer from integer without a cast [-Wint-conversion]
+    strcpy(TCP_User_Recv_Buf, TCPrecvBuffer);
+           ^~~~~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/tcp_server_func.h:37,
+                 from ../src/tcp_server_func.c:1:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'char * restrict' but argument is of type 'int'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+'Finished building: ../src/tcp_server_func.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158680	   3456	2152752	2314888	 235288	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+20:15:10 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/tcp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/tcp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/tcp_server_func.d" -MT"src/tcp_server_func.o" -o "src/tcp_server_func.o" "../src/tcp_server_func.c"
+../src/tcp_server_func.c:13:8: warning: type defaults to 'int' in declaration of 'TCP_User_Send_Buf' [-Wimplicit-int]
+ extern TCP_User_Send_Buf;//发送buffer，在main中定义和改写
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c:14:8: warning: type defaults to 'int' in declaration of 'TCP_User_Recv_Buf' [-Wimplicit-int]
+ extern TCP_User_Recv_Buf;//接收buffer，在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c: In function 'tcp_recv_callback':
+../src/tcp_server_func.c:279:29: error: expected expression before ']' token
+    strcpy(TCP_User_Recv_Buf[], TCPrecvBuffer);
+                             ^
+make: *** [src/subdir.mk:59: src/tcp_server_func.o] Error 1
+20:15:24 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/tcp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/tcp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/tcp_server_func.d" -MT"src/tcp_server_func.o" -o "src/tcp_server_func.o" "../src/tcp_server_func.c"
+../src/tcp_server_func.c:13:8: warning: type defaults to 'int' in declaration of 'TCP_User_Send_Buf' [-Wimplicit-int]
+ extern TCP_User_Send_Buf;//发送buffer，在main中定义和改写
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c:14:8: warning: type defaults to 'int' in declaration of 'TCP_User_Recv_Buf' [-Wimplicit-int]
+ extern TCP_User_Recv_Buf;//接收buffer，在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c: In function 'tcp_recv_callback':
+../src/tcp_server_func.c:279:44: error: expected expression before ']' token
+    strcpy(TCP_User_Recv_Buf, TCPrecvBuffer[]);
+                                            ^
+../src/tcp_server_func.c:279:11: warning: passing argument 1 of 'strcpy' makes pointer from integer without a cast [-Wint-conversion]
+    strcpy(TCP_User_Recv_Buf, TCPrecvBuffer[]);
+           ^~~~~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/tcp_server_func.h:37,
+                 from ../src/tcp_server_func.c:1:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'char * restrict' but argument is of type 'int'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+make: *** [src/subdir.mk:59: src/tcp_server_func.o] Error 1
+20:15:27 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/tcp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/tcp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/tcp_server_func.d" -MT"src/tcp_server_func.o" -o "src/tcp_server_func.o" "../src/tcp_server_func.c"
+../src/tcp_server_func.c:13:8: warning: type defaults to 'int' in declaration of 'TCP_User_Send_Buf' [-Wimplicit-int]
+ extern TCP_User_Send_Buf;//发送buffer，在main中定义和改写
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c:14:8: warning: type defaults to 'int' in declaration of 'TCP_User_Recv_Buf' [-Wimplicit-int]
+ extern TCP_User_Recv_Buf;//接收buffer，在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c: In function 'tcp_recv_callback':
+../src/tcp_server_func.c:279:11: warning: passing argument 1 of 'strcpy' makes pointer from integer without a cast [-Wint-conversion]
+    strcpy(TCP_User_Recv_Buf, TCPrecvBuffer);
+           ^~~~~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/tcp_server_func.h:37,
+                 from ../src/tcp_server_func.c:1:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'char * restrict' but argument is of type 'int'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+'Finished building: ../src/tcp_server_func.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158680	   3456	2152752	2314888	 235288	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+20:17:49 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/tcp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/tcp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/tcp_server_func.d" -MT"src/tcp_server_func.o" -o "src/tcp_server_func.o" "../src/tcp_server_func.c"
+../src/tcp_server_func.c:13:8: warning: type defaults to 'int' in declaration of 'TCP_User_Send_Buf' [-Wimplicit-int]
+ extern TCP_User_Send_Buf;//发送buffer，在main中定义和改写
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c:14:8: warning: type defaults to 'int' in declaration of 'TCP_User_Recv_Buf' [-Wimplicit-int]
+ extern TCP_User_Recv_Buf;//接收buffer，在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c: In function 'tcp_recv_callback':
+../src/tcp_server_func.c:279:11: warning: passing argument 1 of 'strcpy' makes pointer from integer without a cast [-Wint-conversion]
+    strcpy(TCP_User_Recv_Buf, TCPrecvBuffer);
+           ^~~~~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/tcp_server_func.h:37,
+                 from ../src/tcp_server_func.c:1:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'char * restrict' but argument is of type 'int'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+../src/tcp_server_func.c: In function 'tcp_poll_callback':
+../src/tcp_server_func.c:325:21: error: 'es' undeclared (first use in this function)
+    send_data_d(tpcb,es);
+                     ^~
+../src/tcp_server_func.c:325:21: note: each undeclared identifier is reported only once for each function it appears in
+make: *** [src/subdir.mk:59: src/tcp_server_func.o] Error 1
+20:17:56 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/tcp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/tcp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/tcp_server_func.d" -MT"src/tcp_server_func.o" -o "src/tcp_server_func.o" "../src/tcp_server_func.c"
+../src/tcp_server_func.c:13:8: warning: type defaults to 'int' in declaration of 'TCP_User_Send_Buf' [-Wimplicit-int]
+ extern TCP_User_Send_Buf;//发送buffer，在main中定义和改写
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c:14:8: warning: type defaults to 'int' in declaration of 'TCP_User_Recv_Buf' [-Wimplicit-int]
+ extern TCP_User_Recv_Buf;//接收buffer，在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c: In function 'tcp_recv_callback':
+../src/tcp_server_func.c:279:11: warning: passing argument 1 of 'strcpy' makes pointer from integer without a cast [-Wint-conversion]
+    strcpy(TCP_User_Recv_Buf, TCPrecvBuffer);
+           ^~~~~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/tcp_server_func.h:37,
+                 from ../src/tcp_server_func.c:1:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'char * restrict' but argument is of type 'int'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+'Finished building: ../src/tcp_server_func.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158680	   3456	2152752	2314888	 235288	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+20:18:23 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/tcp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/tcp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/tcp_server_func.d" -MT"src/tcp_server_func.o" -o "src/tcp_server_func.o" "../src/tcp_server_func.c"
+../src/tcp_server_func.c:13:8: warning: type defaults to 'int' in declaration of 'TCP_User_Send_Buf' [-Wimplicit-int]
+ extern TCP_User_Send_Buf;//发送buffer，在main中定义和改写
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c:14:8: warning: type defaults to 'int' in declaration of 'TCP_User_Recv_Buf' [-Wimplicit-int]
+ extern TCP_User_Recv_Buf;//接收buffer，在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c: In function 'tcp_recv_callback':
+../src/tcp_server_func.c:279:11: warning: passing argument 1 of 'strcpy' makes pointer from integer without a cast [-Wint-conversion]
+    strcpy(TCP_User_Recv_Buf, TCPrecvBuffer);
+           ^~~~~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/tcp_server_func.h:37,
+                 from ../src/tcp_server_func.c:1:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'char * restrict' but argument is of type 'int'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+'Finished building: ../src/tcp_server_func.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158680	   3456	2152752	2314888	 235288	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+20:20:27 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/tcp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/tcp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/tcp_server_func.d" -MT"src/tcp_server_func.o" -o "src/tcp_server_func.o" "../src/tcp_server_func.c"
+../src/tcp_server_func.c:13:8: warning: type defaults to 'int' in declaration of 'TCP_User_Send_Buf' [-Wimplicit-int]
+ extern TCP_User_Send_Buf;//发送buffer，在main中定义和改写
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c:14:8: warning: type defaults to 'int' in declaration of 'TCP_User_Recv_Buf' [-Wimplicit-int]
+ extern TCP_User_Recv_Buf;//接收buffer，在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c: In function 'tcp_recv_callback':
+../src/tcp_server_func.c:279:11: warning: passing argument 1 of 'strcpy' makes pointer from integer without a cast [-Wint-conversion]
+    strcpy(TCP_User_Recv_Buf, TCPrecvBuffer);
+           ^~~~~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/tcp_server_func.h:37,
+                 from ../src/tcp_server_func.c:1:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'char * restrict' but argument is of type 'int'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+'Finished building: ../src/tcp_server_func.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158680	   3456	2152752	2314888	 235288	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+20:21:00 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/tcp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/tcp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/tcp_server_func.d" -MT"src/tcp_server_func.o" -o "src/tcp_server_func.o" "../src/tcp_server_func.c"
+../src/tcp_server_func.c:13:8: warning: type defaults to 'int' in declaration of 'TCP_User_Send_Buf' [-Wimplicit-int]
+ extern TCP_User_Send_Buf;//发送buffer，在main中定义和改写
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c:14:8: warning: type defaults to 'int' in declaration of 'TCP_User_Recv_Buf' [-Wimplicit-int]
+ extern TCP_User_Recv_Buf;//接收buffer，在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c: In function 'tcp_recv_callback':
+../src/tcp_server_func.c:279:11: warning: passing argument 1 of 'strcpy' makes pointer from integer without a cast [-Wint-conversion]
+    strcpy(TCP_User_Recv_Buf, TCPrecvBuffer);
+           ^~~~~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/tcp_server_func.h:37,
+                 from ../src/tcp_server_func.c:1:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'char * restrict' but argument is of type 'int'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+'Finished building: ../src/tcp_server_func.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158680	   3456	2152752	2314888	 235288	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+20:21:10 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/tcp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/tcp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/tcp_server_func.d" -MT"src/tcp_server_func.o" -o "src/tcp_server_func.o" "../src/tcp_server_func.c"
+../src/tcp_server_func.c:13:8: warning: type defaults to 'int' in declaration of 'TCP_User_Send_Buf' [-Wimplicit-int]
+ extern TCP_User_Send_Buf;//发送buffer，在main中定义和改写
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c:14:8: warning: type defaults to 'int' in declaration of 'TCP_User_Recv_Buf' [-Wimplicit-int]
+ extern TCP_User_Recv_Buf;//接收buffer，在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c: In function 'tcp_recv_callback':
+../src/tcp_server_func.c:279:11: warning: passing argument 1 of 'strcpy' makes pointer from integer without a cast [-Wint-conversion]
+    strcpy(TCP_User_Recv_Buf, TCPrecvBuffer);
+           ^~~~~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/tcp_server_func.h:37,
+                 from ../src/tcp_server_func.c:1:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'char * restrict' but argument is of type 'int'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+'Finished building: ../src/tcp_server_func.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158680	   3456	2152752	2314888	 235288	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+20:23:44 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/tcp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/tcp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/tcp_server_func.d" -MT"src/tcp_server_func.o" -o "src/tcp_server_func.o" "../src/tcp_server_func.c"
+../src/tcp_server_func.c:13:8: warning: type defaults to 'int' in declaration of 'TCP_User_Send_Buf' [-Wimplicit-int]
+ extern TCP_User_Send_Buf;//发送buffer，在main中定义和改写
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c:14:8: warning: type defaults to 'int' in declaration of 'TCP_User_Recv_Buf' [-Wimplicit-int]
+ extern TCP_User_Recv_Buf;//接收buffer，在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c: In function 'tcp_recv_callback':
+../src/tcp_server_func.c:279:11: warning: passing argument 1 of 'strcpy' makes pointer from integer without a cast [-Wint-conversion]
+    strcpy(TCP_User_Recv_Buf, TCPrecvBuffer);
+           ^~~~~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/tcp_server_func.h:37,
+                 from ../src/tcp_server_func.c:1:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'char * restrict' but argument is of type 'int'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+'Finished building: ../src/tcp_server_func.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158680	   3456	2152752	2314888	 235288	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+20:23:55 **** Incremental Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+20:25:17 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/tcp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/tcp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/tcp_server_func.d" -MT"src/tcp_server_func.o" -o "src/tcp_server_func.o" "../src/tcp_server_func.c"
+../src/tcp_server_func.c:13:8: warning: type defaults to 'int' in declaration of 'TCP_User_Send_Buf' [-Wimplicit-int]
+ extern TCP_User_Send_Buf;//发送buffer，在main中定义和改写
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c:14:8: warning: type defaults to 'int' in declaration of 'TCP_User_Recv_Buf' [-Wimplicit-int]
+ extern TCP_User_Recv_Buf;//接收buffer，在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c: In function 'tcp_recv_callback':
+../src/tcp_server_func.c:279:11: warning: passing argument 1 of 'strcpy' makes pointer from integer without a cast [-Wint-conversion]
+    strcpy(TCP_User_Recv_Buf, TCPrecvBuffer);
+           ^~~~~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/tcp_server_func.h:37,
+                 from ../src/tcp_server_func.c:1:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'char * restrict' but argument is of type 'int'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+'Finished building: ../src/tcp_server_func.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158680	   3456	2152752	2314888	 235288	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+20:39:33 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:272:23: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+  OLED_ShowString(0,0, oled_head_string);
+                       ^~~~~~~~~~~~~~~~
+In file included from ../src/main.c:41:
+../src/oled.h:62:6: note: expected 'const u8 *' {aka 'const unsigned char *'} but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/main.c:353:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+    OLED_ShowString(0,16, olde_stat_string);
+                          ^~~~~~~~~~~~~~~~
+In file included from ../src/main.c:41:
+../src/oled.h:62:6: note: expected 'const u8 *' {aka 'const unsigned char *'} but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/main.c:257:6: warning: unused variable 'flag_first_udp' [-Wunused-variable]
+  int flag_first_udp = 0;
+      ^~~~~~~~~~~~~~
+../src/main.c:256:6: warning: unused variable 'flag_first_tcp' [-Wunused-variable]
+  int flag_first_tcp = 0;
+      ^~~~~~~~~~~~~~
+../src/main.c:271:41: warning: 'TCP | UDP | CMD' directive writing 15 bytes into a region of size 12 [-Wformat-overflow=]
+  sprintf(oled_head_string, "TCP | UDP | CMD");
+                             ~~~~~~~~~~~~^~~
+../src/main.c:271:2: note: 'sprintf' output 16 bytes into a destination of size 12
+  sprintf(oled_head_string, "TCP | UDP | CMD");
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158624	   3456	2152752	2314832	 235250	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+20:42:14 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/udp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/udp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/udp_server_func.d" -MT"src/udp_server_func.o" -o "src/udp_server_func.o" "../src/udp_server_func.c"
+../src/udp_server_func.c:40:8: warning: type defaults to 'int' in declaration of 'UDP_User_Recv_Buf' [-Wimplicit-int]
+ extern UDP_User_Recv_Buf;  // 接收buffer， 在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/udp_server_func.c:41:8: warning: type defaults to 'int' in declaration of 'UDP_User_Send_Buf' [-Wimplicit-int]
+ extern UDP_User_Send_Buf;  // 发送buffer， 在main中定义和赋值
+        ^~~~~~~~~~~~~~~~~
+'Finished building: ../src/udp_server_func.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158624	   3456	2152752	2314832	 235250	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+20:42:20 **** Incremental Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+20:50:24 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/udp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/udp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/udp_server_func.d" -MT"src/udp_server_func.o" -o "src/udp_server_func.o" "../src/udp_server_func.c"
+../src/udp_server_func.c:40:8: warning: type defaults to 'int' in declaration of 'UDP_User_Recv_Buf' [-Wimplicit-int]
+ extern UDP_User_Recv_Buf;  // 接收buffer， 在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/udp_server_func.c:41:8: warning: type defaults to 'int' in declaration of 'UDP_User_Send_Buf' [-Wimplicit-int]
+ extern UDP_User_Send_Buf;  // 发送buffer， 在main中定义和赋值
+        ^~~~~~~~~~~~~~~~~
+'Finished building: ../src/udp_server_func.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158632	   3456	2152752	2314840	 235258	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+20:50:29 **** Incremental Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+20:51:42 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/udp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/udp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/udp_server_func.d" -MT"src/udp_server_func.o" -o "src/udp_server_func.o" "../src/udp_server_func.c"
+../src/udp_server_func.c:40:8: warning: type defaults to 'int' in declaration of 'UDP_User_Recv_Buf' [-Wimplicit-int]
+ extern UDP_User_Recv_Buf;  // 接收buffer， 在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/udp_server_func.c:41:8: warning: type defaults to 'int' in declaration of 'UDP_User_Send_Buf' [-Wimplicit-int]
+ extern UDP_User_Send_Buf;  // 发送buffer， 在main中定义和赋值
+        ^~~~~~~~~~~~~~~~~
+../src/udp_server_func.c: In function 'UDP_Send_data':
+../src/udp_server_func.c:121:33: warning: 'sizeof' on array function parameter 'a' will return size of 'const char *' [-Wsizeof-array-argument]
+  memcpy(UDPsendBuffer, a, sizeof(a));// sizeof 内应该传入指针所指的变量
+                                 ^
+../src/udp_server_func.c:114:31: note: declared here
+ void UDP_Send_data(const char a[]){
+                    ~~~~~~~~~~~^~~
+../src/udp_server_func.c:121:33: warning: argument to 'sizeof' in 'memcpy' call is the same expression as the source; did you mean to provide an explicit length? [-Wsizeof-pointer-memaccess]
+  memcpy(UDPsendBuffer, a, sizeof(a));// sizeof 内应该传入指针所指的变量
+                                 ^
+'Finished building: ../src/udp_server_func.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158632	   3456	2152752	2314840	 235258	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+20:52:07 **** Incremental Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+20:53:07 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/udp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/udp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/udp_server_func.d" -MT"src/udp_server_func.o" -o "src/udp_server_func.o" "../src/udp_server_func.c"
+../src/udp_server_func.c:40:8: warning: type defaults to 'int' in declaration of 'UDP_User_Recv_Buf' [-Wimplicit-int]
+ extern UDP_User_Recv_Buf;  // 接收buffer， 在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/udp_server_func.c:41:8: warning: type defaults to 'int' in declaration of 'UDP_User_Send_Buf' [-Wimplicit-int]
+ extern UDP_User_Send_Buf;  // 发送buffer， 在main中定义和赋值
+        ^~~~~~~~~~~~~~~~~
+'Finished building: ../src/udp_server_func.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158632	   3456	2152752	2314840	 235258	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+20:53:17 **** Incremental Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+20:54:03 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/udp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/udp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/udp_server_func.d" -MT"src/udp_server_func.o" -o "src/udp_server_func.o" "../src/udp_server_func.c"
+../src/udp_server_func.c:40:8: warning: type defaults to 'int' in declaration of 'UDP_User_Recv_Buf' [-Wimplicit-int]
+ extern UDP_User_Recv_Buf;  // 接收buffer， 在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/udp_server_func.c:41:8: warning: type defaults to 'int' in declaration of 'UDP_User_Send_Buf' [-Wimplicit-int]
+ extern UDP_User_Send_Buf;  // 发送buffer， 在main中定义和赋值
+        ^~~~~~~~~~~~~~~~~
+'Finished building: ../src/udp_server_func.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158624	   3456	2152752	2314832	 235250	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+20:54:10 **** Incremental Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:58:17 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:272:23: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+  OLED_ShowString(0,0, oled_head_string);
+                       ^~~~~~~~~~~~~~~~
+In file included from ../src/main.c:41:
+../src/oled.h:62:6: note: expected 'const u8 *' {aka 'const unsigned char *'} but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/main.c:353:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+    OLED_ShowString(0,16, olde_stat_string);
+                          ^~~~~~~~~~~~~~~~
+In file included from ../src/main.c:41:
+../src/oled.h:62:6: note: expected 'const u8 *' {aka 'const unsigned char *'} but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/main.c:257:6: warning: unused variable 'flag_first_udp' [-Wunused-variable]
+  int flag_first_udp = 0;
+      ^~~~~~~~~~~~~~
+../src/main.c:256:6: warning: unused variable 'flag_first_tcp' [-Wunused-variable]
+  int flag_first_tcp = 0;
+      ^~~~~~~~~~~~~~
+../src/main.c:271:41: warning: 'TCP | UDP | CMD' directive writing 15 bytes into a region of size 12 [-Wformat-overflow=]
+  sprintf(oled_head_string, "TCP | UDP | CMD");
+                             ~~~~~~~~~~~~^~~
+../src/main.c:271:2: note: 'sprintf' output 16 bytes into a destination of size 12
+  sprintf(oled_head_string, "TCP | UDP | CMD");
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158624	   3456	2152752	2314832	 235250	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+22:09:01 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:272:23: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+  OLED_ShowString(0,0, oled_head_string);
+                       ^~~~~~~~~~~~~~~~
+In file included from ../src/main.c:41:
+../src/oled.h:62:6: note: expected 'const u8 *' {aka 'const unsigned char *'} but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/main.c:353:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+    OLED_ShowString(0,16, olde_stat_string);
+                          ^~~~~~~~~~~~~~~~
+In file included from ../src/main.c:41:
+../src/oled.h:62:6: note: expected 'const u8 *' {aka 'const unsigned char *'} but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/main.c:257:6: warning: unused variable 'flag_first_udp' [-Wunused-variable]
+  int flag_first_udp = 0;
+      ^~~~~~~~~~~~~~
+../src/main.c:256:6: warning: unused variable 'flag_first_tcp' [-Wunused-variable]
+  int flag_first_tcp = 0;
+      ^~~~~~~~~~~~~~
+../src/main.c:271:41: warning: 'TCP | UDP | CMD' directive writing 15 bytes into a region of size 12 [-Wformat-overflow=]
+  sprintf(oled_head_string, "TCP | UDP | CMD");
+                             ~~~~~~~~~~~~^~~
+../src/main.c:271:2: note: 'sprintf' output 16 bytes into a destination of size 12
+  sprintf(oled_head_string, "TCP | UDP | CMD");
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158624	   3456	2152752	2314832	 235250	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+22:09:22 **** Incremental Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/platform_zynq.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform_zynq.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/platform_zynq.d" -MT"src/platform_zynq.o" -o "src/platform_zynq.o" "../src/platform_zynq.c"
+In file included from ../src/platform_zynq.c:60:
+../../Application_BSP_V1/ps7_cortexa9_0/include/xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+'Finished building: ../src/platform_zynq.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158624	   3456	2152752	2314832	 235250	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+22:09:54 **** Incremental Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:11:50 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:272:23: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+  OLED_ShowString(0,0, oled_head_string);
+                       ^~~~~~~~~~~~~~~~
+In file included from ../src/main.c:41:
+../src/oled.h:62:6: note: expected 'const u8 *' {aka 'const unsigned char *'} but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/main.c:354:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+    OLED_ShowString(0,16, olde_stat_string);
+                          ^~~~~~~~~~~~~~~~
+In file included from ../src/main.c:41:
+../src/oled.h:62:6: note: expected 'const u8 *' {aka 'const unsigned char *'} but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/main.c:257:6: warning: unused variable 'flag_first_udp' [-Wunused-variable]
+  int flag_first_udp = 0;
+      ^~~~~~~~~~~~~~
+../src/main.c:256:6: warning: unused variable 'flag_first_tcp' [-Wunused-variable]
+  int flag_first_tcp = 0;
+      ^~~~~~~~~~~~~~
+../src/main.c:271:41: warning: 'TCP | UDP | CMD' directive writing 15 bytes into a region of size 12 [-Wformat-overflow=]
+  sprintf(oled_head_string, "TCP | UDP | CMD");
+                             ~~~~~~~~~~~~^~~
+../src/main.c:271:2: note: 'sprintf' output 16 bytes into a destination of size 12
+  sprintf(oled_head_string, "TCP | UDP | CMD");
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158624	   3456	2152752	2314832	 235250	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+22:11:55 **** Incremental Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:12:12 **** Incremental Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:12:42 **** Incremental Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:13:15 **** Incremental Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:16:21 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/platform_zynq.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform_zynq.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/platform_zynq.d" -MT"src/platform_zynq.o" -o "src/platform_zynq.o" "../src/platform_zynq.c"
+In file included from ../src/platform_zynq.c:60:
+../../Application_BSP_V1/ps7_cortexa9_0/include/xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+'Finished building: ../src/platform_zynq.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158624	   3456	2152752	2314832	 235250	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+22:17:35 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:272:23: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+  OLED_ShowString(0,0, oled_head_string);
+                       ^~~~~~~~~~~~~~~~
+In file included from ../src/main.c:41:
+../src/oled.h:62:6: note: expected 'const u8 *' {aka 'const unsigned char *'} but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/main.c:354:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+    OLED_ShowString(0,16, olde_stat_string);
+                          ^~~~~~~~~~~~~~~~
+In file included from ../src/main.c:41:
+../src/oled.h:62:6: note: expected 'const u8 *' {aka 'const unsigned char *'} but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/main.c:257:6: warning: unused variable 'flag_first_udp' [-Wunused-variable]
+  int flag_first_udp = 0;
+      ^~~~~~~~~~~~~~
+../src/main.c:256:6: warning: unused variable 'flag_first_tcp' [-Wunused-variable]
+  int flag_first_tcp = 0;
+      ^~~~~~~~~~~~~~
+../src/main.c:271:41: warning: 'TCP | UDP | CMD' directive writing 15 bytes into a region of size 12 [-Wformat-overflow=]
+  sprintf(oled_head_string, "TCP | UDP | CMD");
+                             ~~~~~~~~~~~~^~~
+../src/main.c:271:2: note: 'sprintf' output 16 bytes into a destination of size 12
+  sprintf(oled_head_string, "TCP | UDP | CMD");
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158624	   3456	2152752	2314832	 235250	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+22:17:40 **** Incremental Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:19:29 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:272:23: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+  OLED_ShowString(0,0, oled_head_string);
+                       ^~~~~~~~~~~~~~~~
+In file included from ../src/main.c:41:
+../src/oled.h:62:6: note: expected 'const u8 *' {aka 'const unsigned char *'} but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/main.c:354:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+    OLED_ShowString(0,16, olde_stat_string);
+                          ^~~~~~~~~~~~~~~~
+In file included from ../src/main.c:41:
+../src/oled.h:62:6: note: expected 'const u8 *' {aka 'const unsigned char *'} but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/main.c:257:6: warning: unused variable 'flag_first_udp' [-Wunused-variable]
+  int flag_first_udp = 0;
+      ^~~~~~~~~~~~~~
+../src/main.c:256:6: warning: unused variable 'flag_first_tcp' [-Wunused-variable]
+  int flag_first_tcp = 0;
+      ^~~~~~~~~~~~~~
+../src/main.c:271:41: warning: 'TCP | UDP | CMD' directive writing 15 bytes into a region of size 12 [-Wformat-overflow=]
+  sprintf(oled_head_string, "TCP | UDP | CMD");
+                             ~~~~~~~~~~~~^~~
+../src/main.c:271:2: note: 'sprintf' output 16 bytes into a destination of size 12
+  sprintf(oled_head_string, "TCP | UDP | CMD");
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158624	   3456	2152752	2314832	 235250	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+22:19:35 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/platform_zynq.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform_zynq.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/platform_zynq.d" -MT"src/platform_zynq.o" -o "src/platform_zynq.o" "../src/platform_zynq.c"
+In file included from ../src/platform_zynq.c:60:
+../../Application_BSP_V1/ps7_cortexa9_0/include/xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+'Finished building: ../src/platform_zynq.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158624	   3456	2152752	2314832	 235250	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+22:19:41 **** Incremental Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:19:58 **** Incremental Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:21:07 **** Incremental Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:24:19 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:272:23: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+  OLED_ShowString(0,0, oled_head_string);
+                       ^~~~~~~~~~~~~~~~
+In file included from ../src/main.c:41:
+../src/oled.h:62:6: note: expected 'const u8 *' {aka 'const unsigned char *'} but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/main.c:354:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+    OLED_ShowString(0,16, olde_stat_string);
+                          ^~~~~~~~~~~~~~~~
+In file included from ../src/main.c:41:
+../src/oled.h:62:6: note: expected 'const u8 *' {aka 'const unsigned char *'} but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/main.c:257:6: warning: unused variable 'flag_first_udp' [-Wunused-variable]
+  int flag_first_udp = 0;
+      ^~~~~~~~~~~~~~
+../src/main.c:256:6: warning: unused variable 'flag_first_tcp' [-Wunused-variable]
+  int flag_first_tcp = 0;
+      ^~~~~~~~~~~~~~
+../src/main.c:271:41: warning: 'TCP | UDP | CMD' directive writing 15 bytes into a region of size 12 [-Wformat-overflow=]
+  sprintf(oled_head_string, "TCP | UDP | CMD");
+                             ~~~~~~~~~~~~^~~
+../src/main.c:271:2: note: 'sprintf' output 16 bytes into a destination of size 12
+  sprintf(oled_head_string, "TCP | UDP | CMD");
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158624	   3456	2152752	2314832	 235250	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+22:25:55 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/main.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:272:23: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+  OLED_ShowString(0,0, oled_head_string);
+                       ^~~~~~~~~~~~~~~~
+In file included from ../src/main.c:41:
+../src/oled.h:62:6: note: expected 'const u8 *' {aka 'const unsigned char *'} but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/main.c:354:26: warning: pointer targets in passing argument 3 of 'OLED_ShowString' differ in signedness [-Wpointer-sign]
+    OLED_ShowString(0,16, olde_stat_string);
+                          ^~~~~~~~~~~~~~~~
+In file included from ../src/main.c:41:
+../src/oled.h:62:6: note: expected 'const u8 *' {aka 'const unsigned char *'} but argument is of type 'char *'
+ void OLED_ShowString(u8 x,u8 y,const u8 *p);
+      ^~~~~~~~~~~~~~~
+../src/main.c:257:6: warning: unused variable 'flag_first_udp' [-Wunused-variable]
+  int flag_first_udp = 0;
+      ^~~~~~~~~~~~~~
+../src/main.c:256:6: warning: unused variable 'flag_first_tcp' [-Wunused-variable]
+  int flag_first_tcp = 0;
+      ^~~~~~~~~~~~~~
+../src/main.c:271:41: warning: 'TCP | UDP | CMD' directive writing 15 bytes into a region of size 12 [-Wformat-overflow=]
+  sprintf(oled_head_string, "TCP | UDP | CMD");
+                             ~~~~~~~~~~~~^~~
+../src/main.c:271:2: note: 'sprintf' output 16 bytes into a destination of size 12
+  sprintf(oled_head_string, "TCP | UDP | CMD");
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158624	   3456	2152752	2314832	 235250	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
+22:28:08 **** Auto Build of configuration Debug for project Application_V1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/tcp_server_func.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/tcp_server_func.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Application_BSP_V1/ps7_cortexa9_0/include -MMD -MP -MF"src/tcp_server_func.d" -MT"src/tcp_server_func.o" -o "src/tcp_server_func.o" "../src/tcp_server_func.c"
+../src/tcp_server_func.c:13:8: warning: type defaults to 'int' in declaration of 'TCP_User_Send_Buf' [-Wimplicit-int]
+ extern TCP_User_Send_Buf;//发送buffer，在main中定义和改写
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c:14:8: warning: type defaults to 'int' in declaration of 'TCP_User_Recv_Buf' [-Wimplicit-int]
+ extern TCP_User_Recv_Buf;//接收buffer，在main中定义和读取
+        ^~~~~~~~~~~~~~~~~
+../src/tcp_server_func.c: In function 'tcp_recv_callback':
+../src/tcp_server_func.c:279:11: warning: passing argument 1 of 'strcpy' makes pointer from integer without a cast [-Wint-conversion]
+    strcpy(TCP_User_Recv_Buf, TCPrecvBuffer);
+           ^~~~~~~~~~~~~~~~~
+In file included from ../../Application_BSP_V1/ps7_cortexa9_0/include/xil_printf.h:9,
+                 from ../src/tcp_server_func.h:37,
+                 from ../src/tcp_server_func.c:1:
+d:\xilinx\sdk\2019.1\gnu\aarch32\nt\gcc-arm-none-eabi\arm-none-eabi\libc\usr\include\string.h:38:8: note: expected 'char * restrict' but argument is of type 'int'
+ char  *strcpy (char *__restrict, const char *__restrict);
+        ^~~~~~
+'Finished building: ../src/tcp_server_func.c'
+' '
+'Building target: Application_V1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Application_BSP_V1/ps7_cortexa9_0/lib -o "Application_V1.elf"  ./src/i2c_access.o ./src/iic_phyreset.o ./src/main.o ./src/oled.o ./src/platform.o ./src/platform_mb.o ./src/platform_zynq.o ./src/platform_zynqmp.o ./src/sfp.o ./src/si5324.o ./src/tcp_server_func.o ./src/udp_server_func.o ./src/user_xadc.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: Application_V1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Application_V1.elf  |tee "Application_V1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 158624	   3456	2152752	2314832	 235250	Application_V1.elf
+'Finished building: Application_V1.elf.size'
+' '
